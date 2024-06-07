@@ -1,4 +1,4 @@
-# News-Article-Scraper
+# News-Article-Content-Web-Scraper
 
 <div style="text-align: justify">
   
